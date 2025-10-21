@@ -11,6 +11,6 @@ package git.practice;
 public class Practice {
 
     public static void main(String[] args) {
-        System.out.println("edited through github");
+        System.out.println("edited through github is now edited on netbeans");
     }
 }
