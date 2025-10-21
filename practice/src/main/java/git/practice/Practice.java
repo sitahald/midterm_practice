@@ -11,6 +11,6 @@ package git.practice;
 public class Practice {
 
     public static void main(String[] args) {
-        System.out.println("practice 2");
+        System.out.println("edited through github");
     }
 }
